@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[aks:home|Door43 (aks)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-aks|d43-aks repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-aks/archive/master.zip|d43-aks.zip]]
+
+**Recent Changes**
+{{changes>ns = aks}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/aks|Ethnologue data]]
+
